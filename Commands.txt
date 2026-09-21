@@ -1,0 +1,16 @@
+fittrack-backend: cd fittrack-backend
+Check Node: node -v
+install node if it below 24.x.x thn install latest lts version(https://nodejs.org/en/download)
+
+Start backend
+npm install
+npm install-scripts approve @prisma/client
+npm install-scripts approve @prisma/engines
+npm install-scripts approve prisma
+npm run dev
+
+fittrack-mobile: cd fittrack-mobile
+
+Start mobile
+npm install
+npm start
