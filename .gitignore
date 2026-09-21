@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+.expo/
+dist/
+.expo-shared/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test & Coverage
+coverage/
+*.log
+
+# Build
+build/
